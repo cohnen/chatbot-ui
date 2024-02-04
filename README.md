@@ -1,4 +1,4 @@
-# Chatbot UI - ECC
+# Chatbot UI - ECC 2
 
 The open-source AI chat app for everyone.
 
